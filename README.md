@@ -73,14 +73,10 @@ If you'd like to contribute to this project, please fork the repository and use 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
 ## Contact
 
-For any inquiries or support, please contact [Your Name] at [your-email@example.com].
-
----
-
-Feel free to customize the `README.md` file further to suit your project's needs!
+For any inquiries or support, please contact [Amol Nisargan] at [nisargan.ap.com].
