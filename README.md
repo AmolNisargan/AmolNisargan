@@ -90,10 +90,6 @@ For any inquiries or support, please contact [Amol Nisargan] at [nisargan.ap@gma
 
 ![image](https://github.com/user-attachments/assets/3c69ae41-0edc-47ae-bdfe-5c8829007ba3)
 
-![image](https://github.com/user-attachments/assets/18a863b8-3c5b-4886-8a5d-206f69da69ef)
-
-![image](https://github.com/user-attachments/assets/57a3ca42-6c68-4fca-b8f9-920557879ab8)
-
 ![image](https://github.com/user-attachments/assets/ce9725ef-0df1-46dc-ba82-d51f821447e9)
 
 ![image](https://github.com/user-attachments/assets/ff6dcd3f-a766-4030-8878-6371bd6f6408)
