@@ -44,7 +44,7 @@ The Inventory Management System is a web-based application designed to manage in
    - Create a new MySQL database for the application.
    - Update the database configuration in `application.properties` file:
      ```properties
-     spring.datasource.url=jdbc:mysql://localhost:3306/inventory_db
+     spring.datasource.url=jdbc:mysql://localhost:3306/inventory_db2
      spring.datasource.username=your-username
      spring.datasource.password=your-password
      spring.jpa.hibernate.ddl-auto=update
@@ -76,4 +76,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or support, please contact [Amol Nisargan] at [nisargan.ap.com].
+For any inquiries or support, please contact [Amol Nisargan] at [nisargan.ap@gmail.com].
