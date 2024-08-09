@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your Inventory Management System project on GitHub:
-
----
 
 # Inventory Management System
 
