@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Fullstack developer, <br>Skills: Core Java | Data Structure | MYSQL | JDBC | Spring Boot | JS | HTML | CSS | BootStrap, <br>Learning React.js and node.js.
+Motivated and results-driven Full Stack Developer with expertise in Java, Spring Boot, HTML, CSS, JavaScript, and MySQL. Proven ability to develop, test, and deploy scalable web applications, ensuring high performance and seamless user experiences. Adept at collaborating with cross-functional teams to streamline development processes and deliver innovative solutions. Strong problem-solving skills with a focus on optimizing software performance and scalability.
 
 
 # 💻 Tech Stack:
